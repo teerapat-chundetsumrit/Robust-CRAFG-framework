@@ -9,7 +9,9 @@ The **Robust-CRAFG framework** aims to enhance classification performance on bot
 - **Feature Selection:** filtering redundant or irrelevant features. 
 - **Feature Generation:** creating informative features using common-root relationships and recommendation binary operator selection via using cluster based.  
 
-Notebook Descriptions
+---
+
+### 📘 Notebook Descriptions
 - **RobustCRAFG.ipynb**  
   Core implementation of the proposed Robust-CRAFG framework.
 
@@ -25,7 +27,9 @@ Notebook Descriptions
 
 pip install -r requirements.txt
 
-How to Run
+---
+
+### ⚙️ How to Run
 - git clone https://github.com/<your-username>/Robust-CRAFG-framework.git
 - cd Robust-CRAFG-framework
 - pip install -r requirements.txt
