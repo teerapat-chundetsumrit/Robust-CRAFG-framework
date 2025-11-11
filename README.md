@@ -8,4 +8,4 @@ The proposed framework enhances classification performance on both balanced and 
 
 RobustCRAFG.ipynb /// Developed framework
 .ipynb/// Tutorial running output from framework
-.ipynb/// Evaluation classification performance of framework
+Evaluation of the classification performance of the framework.ipynb/// Evaluation classification performance of framework
