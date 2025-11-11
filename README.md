@@ -4,10 +4,10 @@
 "Robust-CRAFG: A Common-Root-Aware Framework for Efficient Feature Generation on High-Dimensional and Imbalanced Data" (Author: Teerapat Chundetsumrit, 2025).
 
 The **Robust-CRAFG framework** aims to enhance classification performance on both **balanced** and **imbalanced** datasets by integrating fours main processes:
-- **Subsampling:** Reducing dataset size for knowledge discovery via using stratified sampling.
+- **Subsampling:** Reducing dataset size for knowledge discovery using stratified sampling.
 - **Resampling Techniques:** applying methods such as **Condensed Nearest Neighbor (CNN)** and **Synthetic Minority Over-sampling Technique (SMOTE)** to handle data imbalance.
 - **Feature Selection:** filtering redundant or irrelevant features. 
-- **Feature Generation:** creating informative features using common-root relationships and recommendation binary operator selection via using cluster based.  
+- **Feature Generation:** Constructing informative features using common-root relationships and recommending binary operators based on cluster analysis.
 
 ---
 
