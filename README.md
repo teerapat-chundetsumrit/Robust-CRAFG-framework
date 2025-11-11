@@ -14,3 +14,5 @@ Notebook Descriptions
 **`01_robust_crafg_framework_tutorial.ipynb`** #### Tutorial demonstrating how to run the Robust-CRAFG framework. <br> - Uses datasets from the open-source **OpenML** repository via the `openml` library. <br> - Generates output for both **balanced** and **imbalanced** datasets. #####
 
 **`02_evaluation_classification_performance.ipynb`** #### Evaluation of the classification performance of the framework. <br> - Builds baseline models for comparison on balanced and imbalanced datasets. <br> - Demonstrates improvements in classification performance achieved by the Robust-CRAFG framework. ####
+
+pip install -r requirements.txt
