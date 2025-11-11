@@ -24,3 +24,10 @@ Notebook Descriptions
   - Demonstrates classification performance improvements achieved by Robust-CRAFG.
 
 pip install -r requirements.txt
+
+How to Run
+git clone https://github.com/<your-username>/Robust-CRAFG-framework.git
+cd Robust-CRAFG-framework
+pip install -r requirements.txt
+jupyter notebook 01_robust_crafg_framework_tutorial.ipynb
+jupyter notebook 02_evaluation_classification_performance.ipynb
