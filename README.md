@@ -6,6 +6,7 @@
   Overall of framework
 The proposed framework enhances classification performance on both balanced and imbalanced datasets by combining feature generation, selection, and resampling strategies such as the Condensed Nearest Neighbor (CNN) and Synthetic Minority Over-sampling Technique (SMOTE).
 
-RobustCRAFG.ipynb /// Developed framework
-01_robust_crafg_framework_tutorial.ipynb/// Tutorial running output from framework
-02_evaluation_classification_performance.ipynb/// Evaluation classification performance of framework
+The notebooks demonstrate:
+1) RobustCRAFG.ipynb /// Developed framework
+2) 01_robust_crafg_framework_tutorial.ipynb/// Tutorial running output from framework
+3) 02_evaluation_classification_performance.ipynb/// Evaluation classification performance of framework
