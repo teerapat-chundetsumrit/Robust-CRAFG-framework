@@ -10,9 +10,17 @@ The **Robust-CRAFG framework** aims to enhance classification performance on bot
 - **Feature Generation:** creating informative features using common-root relationships and recommendation binary operator selection via using cluster based.  
 
 Notebook Descriptions
-**`RobustCRAFG.ipynb`**  #### Core implementation of the proposed Robust-CRAFG framework. ####
-**`01_robust_crafg_framework_tutorial.ipynb`** #### Tutorial demonstrating how to run the Robust-CRAFG framework. <br> - Uses datasets from the open-source **OpenML** repository via the `openml` library. <br> - Generates output for both **balanced** and **imbalanced** datasets. #####
+- **RobustCRAFG.ipynb**  
+  Core implementation of the proposed Robust-CRAFG framework.
 
-**`02_evaluation_classification_performance.ipynb`** #### Evaluation of the classification performance of the framework. <br> - Builds baseline models for comparison on balanced and imbalanced datasets. <br> - Demonstrates improvements in classification performance achieved by the Robust-CRAFG framework. ####
+- **01_robust_crafg_framework_tutorial.ipynb**  
+  Tutorial demonstrating how to run the Robust-CRAFG framework.  
+  - Uses datasets from the open-source **OpenML** repository via the `openml` library.  
+  - Generates outputs for both **balanced** and **imbalanced** datasets.
+
+- **02_evaluation_classification_performance.ipynb**  
+  Evaluation of the classification performance of the framework.  
+  - Builds baseline models for comparison.  
+  - Demonstrates classification performance improvements achieved by Robust-CRAFG.
 
 pip install -r requirements.txt
